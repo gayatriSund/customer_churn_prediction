@@ -1,0 +1,20 @@
+Essential Libraries for a Telecom Customer Churn Project
+
+
+
+DATA MANIPULATION & ANALYSIS
+pandas: For data structures and analysis.
+
+numpy: For numerical computations.
+
+
+DATA VISUALISATION
+matplotlib: For creating static, animated, and interactive visualizations.
+
+seaborn: For statistical data visualization.
+
+MACHINE LEARNING
+scikit-learn: For machine learning algorithms and model evaluation.
+
+ADDITIONAL LIBRARY
+xgboost: For gradient boosting algorithms.
