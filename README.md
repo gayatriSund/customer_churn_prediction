@@ -1,7 +1,7 @@
 Project Overview:
 This project aims to predict customer churn within a telecom company by leveraging machine learning techniques. The goal is to identify customers at risk of churning and implement targeted retention strategies.
 
-Data
+Data:
 The dataset used for this project contains customer-level information including:
 Demographic data (age, gender, etc.)
 Service usage patterns (voice, data, SMS)
